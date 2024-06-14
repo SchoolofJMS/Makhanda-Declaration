@@ -14,7 +14,7 @@ The summit recognised that in addressing the dehumanisation of the past, part of
 
 Therefore, the summit drew a declaration covering the life and changing times of journalism and declared the following;
 ## 1. Journalism as a Public Good
-We believe journalism and news in particular, is a public good and human right. We believe that journalism is a set of practices, values and ethics of society, which includes government, business and civil society, which we must invest in.  Journalism has a future in the digital age and we believe it is central to democracy and the sustainable development of democracy and the public good. We demand that access to news and journalism be recognised as a fundamental right.
+We believe journalism and news in particular, is a public good and human right. We believe that journalism is a set of practices, values and ethics of society, which includes government, business and civil society, which we must invest in.  Journalism has a future in the digital age and we believe it is central to democracy,  sustainable development  and the public good. We demand that access to news and journalism be recognised as a fundamental right.
 
 
 
