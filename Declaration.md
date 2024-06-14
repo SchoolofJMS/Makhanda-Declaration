@@ -19,15 +19,15 @@ We believe journalism and news in particular, is a public good and human right. 
 
 
 ## 2. Internet Access
-Internet access is a public good and human right. We stand against digital inequality and injustice. Internet access must be universal. Data costs must be accessible to all citizens. Government, legislatures, and regulators must act now to ensure that data prices are fair.        
+Internet access is a public good and a human right. We stand against digital inequality and injustice. Internet access must be universal. Data costs must be accessible to all citizens. Government, legislatures, and regulators must act now to ensure that data prices are fair.        
 South African citizens need affordable access to the internet. It is imperative that the internet be considered a public good, and the control of access and the setting of prices be removed from the private companies who control this access.
 
 
-We call for transparency of algorithms and we demand explainable AI. We recognise that algorithms and platform terms and conditions vary according to geolocation and therefore we call on the African Union to assist in the documentation and the study of a continental understanding of these platform logics. We encourage newsrooms to develop beats around algorithmic abuse and unfettered data mining.
+ We recognise that algorithms and platform terms and conditions vary according to geolocation and therefore we call on the African Union to assist in the documentation and the study of a continental understanding of these platform logics. We encourage newsrooms to develop beats around algorithmic abuse and unfettered data mining. We call for transparency of algorithms and we demand explainable AI.
 
 
 ## 3. Sustainability of Journalism 
-We believe in the constitutional principles which support a sustainable media ecosystem in which credible news journalism can serve the needs of a democratic South Africa and its citizens. We affirm our commitment to regulation, sustainability and the future of the media. We encourage innovation in the quest for new funding models in order to ensure that media is sustainable in the digital era. Sustainability should extend to:
+We believe in the constitutional principles which support a sustainable multi-lingual media ecosystem in which credible news journalism can serve the needs of a democratic South Africa and its citizens. We affirm our commitment to regulation, sustainability and the future of the media. We encourage innovation in the quest for new funding models in order to ensure that media is sustainable in the digital era. Sustainability should extend to:
 
 
 ● Fair compensation for credible media organisations[3] and journalists through the taxation of big tech and online platforms. Fair compensation for news should be based on the value the platforms derive from the content, channelling tax revenue through an independently governed funding entity for public interest media.
