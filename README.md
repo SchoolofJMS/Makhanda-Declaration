@@ -1,0 +1,2 @@
+# Makhanda-Declaration
+Makhanda Declaration
