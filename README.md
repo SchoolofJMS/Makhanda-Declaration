@@ -1,5 +1,5 @@
 # How to add your bit to the Makhanda-Declaration
-Click on the Makanda Declaration.md to open it.
+Click on Declaration.md to open it.
 
 Now click on the pencil and choose Edit in Place.
 
