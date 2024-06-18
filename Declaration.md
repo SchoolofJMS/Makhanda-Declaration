@@ -1,4 +1,4 @@
-# The Makhanda Declaration
+# **The Makhanda Declaration**
 
 The Rhodes University Journalism Summit 2024, with its theme *Seeds of change: cultivating the future of journalism in Africa*, deliberated for three days on the evolving life of journalism in the digital era.
 The summit reiterated that journalism is a form of communication with a particular ethos oriented towards citizen empowerment, the transparency and accountability of power (both public and private) and the building of democracy.
