@@ -1,5 +1,5 @@
 # **The Makhanda Declaration**
-
+This line is a test
 The Rhodes University Journalism Summit 2024, with its theme *Seeds of change: cultivating the future of journalism in Africa*, deliberated for three days on the evolving life of journalism in the digital era.
 The summit reiterated that journalism is a form of communication with a particular ethos oriented towards citizen empowerment, the transparency and accountability of power (both public and private) and the building of democracy.
 The summit believes that it is important to provide all people with accurate information to address past injustices and restore dignity and empowerment to citizens. We believe that Journalism is essential in fulfilling this duty.
